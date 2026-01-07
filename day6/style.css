@@ -1,0 +1,56 @@
+body
+{
+  font-family: arial;
+  background-color: lightblue;
+}
+p
+{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.div-main
+{
+  margin-left: 40px;
+  margin-top: 18px;
+}
+.heading
+{
+  font-size: 25px;
+  width: 300px;
+}
+span
+{
+  font-weight: bold;
+}
+.text
+{
+  color: grey;
+  width: 320px;
+  margin-top: 15px;
+  font-size: 15px;
+}
+.buttons
+{
+  margin-top: 27px;
+}
+.button1
+{
+  border: none;
+  border-radius: 4px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  color: white;
+  background-color: rgb(75, 75, 255);
+}
+.button2
+{
+  border-radius: 4px;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  color: black;
+  border-color: blue;
+}
