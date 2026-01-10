@@ -1,0 +1,138 @@
+body
+{
+  font-family: arial;
+}
+.bgimg
+{
+  height: 700px;
+}
+.main-parent
+{
+  display: flex;
+  height: 800px;
+}
+.main-div
+{
+  position: absolute;
+  height: 630px;
+  width: 1110px;
+  margin-top: 32px;
+  margin-left: 40px;
+}
+.header
+{
+  height: 50px;
+  width: 1110px;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+}
+.profile
+{
+  height: 24px;
+  margin-top: 15px;
+  margin-left: 12px;
+}
+p
+{
+  margin: 0px 0px 0px 0px;
+}
+.project-heading
+{
+  margin-left: 15px;
+  margin-top: 14px;
+  color: rgb(65, 65, 65);
+  font-size: 22px;
+  height: 36px;
+  width: 300px;
+}
+.button-draft
+{
+  height: 32px;
+  background-color: white;
+  border: solid;
+  border-color: lightgray;
+  border-width: 1px;
+  border-radius: 4px;
+  margin-left: 493px;
+  margin-top: 10px;
+  color: rgb(149, 149, 149);
+  padding-left: 13px;
+  padding-right: 13px;
+  margin-right: 10px;
+  font-size: 13px;
+}
+.button-project
+{
+  height: 32px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  margin-top: 10px;
+  padding-left: 19px;
+  padding-right: 19px;
+  margin-right: 10px;
+  font-size: 13px;
+}
+.boxes
+{
+  display: flex;
+  flex-direction: row;
+}
+.box
+{
+  display: flex;
+  flex-direction: column;
+  height: 550px;
+  width: 780px;
+  background-color: red;
+  margin-left: 37px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.boxes-3
+{
+  display: flex;
+  flex-direction: column;
+}
+.box1
+{
+  background-color: red;
+  height: 170px;
+  width: 230px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+.box2
+{
+  background-color: red;
+  height: 150px;
+  width: 230px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+.box3
+{
+  background-color: red;
+  height: 180px;
+  width: 230px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 8px;
+}
+.bell-text
+{
+  display: flex;
+  flex-direction: row;
+  margin-left: 15px;
+  margin-top: 22px;
+}
+.bell
+{
+  height: 23px;
+}
